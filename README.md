@@ -1,5 +1,5 @@
 
-# HerCare 🩸 — Your Menstrual Healthcare Assistant
+# HerCare  — Your Menstrual Healthcare Assistant
 
 **HerCare** is a Streamlit-based AI chatbot designed to provide helpful, informative, and empathetic responses related to menstrual health. It leverages large language models (LLMs) through OpenAI and local LLMs via CTransformers.
 
